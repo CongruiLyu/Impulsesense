@@ -4,7 +4,7 @@
 > Digital well-being / affective computing / multimodal intervention for shopping.
 
 ### 🏠 Home Screen
-![Home Screen](image_app/Home.png)
+![Home Screen](./image_app/Home.png)
 
 ## 🌟 Project Overview
 ImpulseSense is built on **Affective Computing** and **HCI intervention models** to simulate real e-commerce (Amazon / Taobao) and monitor, in real time:
