@@ -15,10 +15,10 @@ ImpulseSense is built on **Affective Computing** and **HCI intervention models**
 When impulsive risk is detected, the system provides **multimodal interventions** (prompts, filters, breathing guidance, micro-lock, safe mode, etc.) to help users make more rational decisions and explore digital well-being for healthier consumption.
 
 ### 📱 Other App Screens
-- **Mall Page 1**: [![Mall Page 1](image_app/Mall_1.png)](image_app/Mall_1.png)
-- **Mall Page 2**: [![Mall Page 2](image_app/Mall_2.png)](image_app/Mall_2.png)
-- **Insights Page**: [![Insights](image_app/Insights.png)](image_app/Insights.png)
-- **Settings Page**: [![Settings](image_app/Mesetting.png)](image_app/Mesetting.png)
+- **Mall Page 1**: [View Image](image_app/Mall_1.png)
+- **Mall Page 2**: [View Image](image_app/Mall_2.png)
+- **Insights Page**: [View Image](image_app/Insights.png)
+- **Settings Page**: [View Image](image_app/Mesetting.png)
 
 ## 📦 What's in V0.1 (Academic Demo)
 - Shopping simulation: product feed (Mock APIs), search/category/detail/multi-image, favorite, add-to-cart
