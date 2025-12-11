@@ -3,6 +3,9 @@
 > A Human–Computer Interaction prototype for detecting & moderating impulsive buying behavior.  
 > Digital well-being / affective computing / multimodal intervention for shopping.
 
+### 🏠 Home Screen
+![Home Screen](image_app/Home.png)
+
 ## 🌟 Project Overview
 ImpulseSense is built on **Affective Computing** and **HCI intervention models** to simulate real e-commerce (Amazon / Taobao) and monitor, in real time:
 - Arousal (emotional activation)
@@ -11,7 +14,13 @@ ImpulseSense is built on **Affective Computing** and **HCI intervention models**
 
 When impulsive risk is detected, the system provides **multimodal interventions** (prompts, filters, breathing guidance, micro-lock, safe mode, etc.) to help users make more rational decisions and explore digital well-being for healthier consumption.
 
-## 📦 What’s in V0.1 (Academic Demo)
+### 📱 Other App Screens
+- **Mall Page 1**: [![Mall Page 1](image_app/Mall_1.png)](image_app/Mall_1.png)
+- **Mall Page 2**: [![Mall Page 2](image_app/Mall_2.png)](image_app/Mall_2.png)
+- **Insights Page**: [![Insights](image_app/Insights.png)](image_app/Insights.png)
+- **Settings Page**: [![Settings](image_app/Mesetting.png)](image_app/Mesetting.png)
+
+## 📦 What's in V0.1 (Academic Demo)
 - Shopping simulation: product feed (Mock APIs), search/category/detail/multi-image, favorite, add-to-cart
 - Impulse index (demo): behavior features + context risk, levels L0–L5
 - Intervention UI: L1 prompt, L2 gray/blue filter, L3 breathing, L4 micro-lock, L5 30-min safe mode
