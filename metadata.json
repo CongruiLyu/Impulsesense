@@ -1,0 +1,7 @@
+{
+  "name": "ImpulseSense",
+  "description": "An emotion-sensing shopping intervention system designed for HCI research. It detects shopping impulse levels and applies progressive UI interventions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
