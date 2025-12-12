@@ -6,6 +6,12 @@
 ### 🏠 Home Screen
 ![Home Screen](./image_app/Home.png)
 
+## 💡 Motivation
+
+As consumerism rapidly spreads across modern society, it has become increasingly clear that personal spending decisions are no longer driven purely by individual needs. Instead, they are heavily shaped by social media promotion, the persuasive design of shopping apps, algorithmic recommendations, and subtle psychological cues. This issue is particularly pronounced among individuals aged 18–25, whose prefrontal cortex is still developing. Many in this group—especially university students and young adults entering the workforce—are prone to impulsive purchases, trend-driven spending, and even high-interest loans due to insufficient financial awareness and self-regulation.
+
+This project was born in response to these challenges. We aim to explore how technology and behavioral research can help young people better recognize consumer traps, manage impulsive spending, and strengthen financial self-control. Our goal is not simply to “restrict” consumption, but to build an intelligent system that empowers users to understand their own spending behaviors, make more rational decisions, and ultimately break free from harmful consumerist patterns.
+
 ## 🌟 Project Overview
 ImpulseSense is built on **Affective Computing** and **HCI intervention models** to simulate real e-commerce (Amazon / Taobao) and monitor, in real time:
 - Arousal (emotional activation)
